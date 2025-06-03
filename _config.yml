@@ -1,7 +1,7 @@
 title: Mr. Magoo Mowing
 email: mrmagoomowing@gmail.com
 description: Professional landscaping services in Johnson City, TN
-baseurl: ""
+baseurl: "mrmagoomowing247.github.io"
 url: "https://mrmagoomowing247.github.io/mrmagoomowing"
 theme: jekyll-theme-minimal
 plugins:
