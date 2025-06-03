@@ -1,0 +1,8 @@
+title: Mr. Magoo Mowing
+email: mrmagoomowing@gmail.com
+description: Professional landscaping services in Nashville, TN
+baseurl: ""
+url: "https://mrmagoomowing247.github.io/mrmagoomowing"
+theme: minima
+plugins:
+  - jekyll-feed
