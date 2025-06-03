@@ -1,8 +1,8 @@
 title: Mr. Magoo Mowing
 email: mrmagoomowing@gmail.com
-description: Professional landscaping services in Nashville, TN
+description: Professional landscaping services in Johnson City, TN
 baseurl: ""
 url: "https://mrmagoomowing247.github.io/mrmagoomowing"
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
