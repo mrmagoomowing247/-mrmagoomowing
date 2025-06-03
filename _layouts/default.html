@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | Mr. Magoo Mowing</title>
+    <style>
+        {% include styles.css %}
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">Mr. Magoo Mowing</div>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    {{ content }}
+
+    <footer>
+        <div class="container">
+            <p>© 2025 Mr. Magoo Mowing. All rights reserved. Professional landscaping services you can trust.</p>
+        </div>
+    </footer>
+
+    <script>
+        {% include scripts.js %}
+    </script>
+</body>
+</html>
